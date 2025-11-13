@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker" />
+    <img src="https://skillicons.dev/icons?i=js,python,docker,php,java,html" />
     <!-- Adicione mais ícones de tecnologias que você usa, separados por vírgula. Ex: ?i=js,ts,react,nodejs,python,docker,aws -->
   </a>
 </p>
