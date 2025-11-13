@@ -18,7 +18,7 @@ Eu sou um estudante apaixonado por tecnologia e sempre em busca de novos desafio
 -  **Preciso de ajuda com:** *[Se houver algo específico. Ex: otimização de queries em bancos de dados SQL]*
 -  **Pergunte-me sobre:** *[Suas áreas de especialidade. Ex: desenvolvimento web, Python e JavaScript]*
 -  **Como me contatar:** *[alexandrerrkaiky@gmail.com, LinkedIn, etc. Ex: [LinkedIn](https://www.linkedin.com/in/seu-usuario/ )]*
-- ⚡ **Curiosidade:** *[Algo interessante sobre você. Ex: Eu consigo resolver um cubo mágico em menos de um minuto!]*
+-  **Curiosidade:** *[Algo interessante sobre você. Ex: Eu consigo resolver um cubo mágico em menos de um minuto!]*
 
 ---
 
