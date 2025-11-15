@@ -21,7 +21,7 @@ Eu sou um estudante apaixonado por tecnologia e sempre em busca de novos desafio
 
 ### 🛠️ Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias com as quais eu trabalho:
+Aqui estão algumas das tecnologias que estou aperfeiçoando no momento
 
 <p align="left">
   <a href="https://skillicons.dev">
