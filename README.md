@@ -14,7 +14,7 @@ Eu sou um estudante apaixonado por tecnologia e sempre em busca de novos desafio
 
 
 -  **Atualmente estou aprendendo:** *pyrhon, php, html, css, javascript, modelagen de dados, metodologias de desenvolvimento de software*
--  **Como me contatar:** *[alexandrerrkaiky@gmail.com, LinkedIn, etc. Ex: [LinkedIn](https://www.linkedin.com/in/seu-usuario/ )]*
+-  **Como me contatar:** *[alexandrerrkaiky@gmail.com*
 -  **Curiosidade:** *[Algo interessante sobre você. Ex: Eu consigo resolver um cubo mágico em menos de um minuto!]*
 
 ---
